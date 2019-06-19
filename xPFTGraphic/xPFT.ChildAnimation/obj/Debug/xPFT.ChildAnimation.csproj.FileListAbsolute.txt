@@ -1,0 +1,131 @@
+E:\MainProject\20140920\AnimationPanelTest\xPFTAnimationPanel\bin\Debug\xPFTAnimationPanel.dll
+E:\MainProject\20140920\AnimationPanelTest\xPFTAnimationPanel\bin\Debug\xPFTAnimationPanel.pdb
+E:\MainProject\20140920\AnimationPanelTest\xPFTAnimationPanel\bin\Debug\SharpDX.Direct3D9.dll
+E:\MainProject\20140920\AnimationPanelTest\xPFTAnimationPanel\bin\Debug\SharpDX.dll
+E:\MainProject\20140920\AnimationPanelTest\xPFTAnimationPanel\bin\Debug\SharpDX.xml
+E:\MainProject\20140920\AnimationPanelTest\xPFTAnimationPanel\bin\Debug\SharpDX.Direct3D9.xml
+E:\MainProject\20140920\AnimationPanelTest\xPFTAnimationPanel\obj\Debug\xPFTAnimationPanel.Properties.Resources.resources
+E:\MainProject\20140920\AnimationPanelTest\xPFTAnimationPanel\obj\Debug\xPFT.ChildAnimation.ChildAnimation.resources
+E:\MainProject\20140920\AnimationPanelTest\xPFTAnimationPanel\obj\Debug\xPFT.ChildAnimation.csproj.GenerateResource.Cache
+E:\MainProject\20140920\AnimationPanelTest\xPFTAnimationPanel\obj\Debug\xPFTAnimationPanel.dll
+E:\MainProject\20140920\AnimationPanelTest\xPFTAnimationPanel\obj\Debug\xPFTAnimationPanel.pdb
+E:\MainProject\20140920\AnimationPanelTest\xPFTAnimationPanel\bin\Debug\Resources\01b.png
+E:\MainProject\20140920\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.Direct3D9.dll
+E:\MainProject\20140920\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.dll
+E:\MainProject\20140920\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.xml
+E:\MainProject\20140920\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.Direct3D9.xml
+E:\MainProject\20140920\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.ChildAnimation.resources
+E:\MainProject\20140920\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.csproj.GenerateResource.Cache
+E:\MainProject\20140920\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.dll
+E:\MainProject\20140920\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.pdb
+E:\MainProject\20140920\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.Properties.Resources.resources
+E:\MainProject\20140920\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.dll
+E:\MainProject\20140920\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.pdb
+E:\MainProject\20140920\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.csprojResolveAssemblyReference.cache
+E:\MainProject\20140920\[2014-09-20]\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.dll
+E:\MainProject\20140920\[2014-09-20]\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.pdb
+E:\MainProject\20140920\[2014-09-20]\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.Direct3D9.dll
+E:\MainProject\20140920\[2014-09-20]\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.dll
+E:\MainProject\20140920\[2014-09-20]\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.xml
+E:\MainProject\20140920\[2014-09-20]\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.Direct3D9.xml
+E:\MainProject\20140920\[2014-09-20]\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.Properties.Resources.resources
+E:\MainProject\20140920\[2014-09-20]\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.ChildAnimation.resources
+E:\MainProject\20140920\[2014-09-20]\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.csproj.GenerateResource.Cache
+E:\MainProject\20140920\[2014-09-20]\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.dll
+E:\MainProject\20140920\[2014-09-20]\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.pdb
+E:\MainProject\20140921\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.dll
+E:\MainProject\20140921\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.pdb
+E:\MainProject\20140921\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.Direct3D9.dll
+E:\MainProject\20140921\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.dll
+E:\MainProject\20140921\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.xml
+E:\MainProject\20140921\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.Direct3D9.xml
+E:\MainProject\20140921\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.Properties.Resources.resources
+E:\MainProject\20140921\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.ChildAnimation.resources
+E:\MainProject\20140921\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.csproj.GenerateResource.Cache
+E:\MainProject\20140921\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.dll
+E:\MainProject\20140921\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.pdb
+E:\MainProject\20140921\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.csprojResolveAssemblyReference.cache
+E:\MainProject\20140922\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.dll
+E:\MainProject\20140922\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.pdb
+E:\MainProject\20140922\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.Direct3D9.dll
+E:\MainProject\20140922\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.dll
+E:\MainProject\20140922\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.xml
+E:\MainProject\20140922\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.Direct3D9.xml
+E:\MainProject\20140922\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.csprojResolveAssemblyReference.cache
+E:\MainProject\20140922\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.Properties.Resources.resources
+E:\MainProject\20140922\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.ChildAnimation.resources
+E:\MainProject\20140922\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.csproj.GenerateResource.Cache
+E:\MainProject\20140922\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.dll
+E:\MainProject\20140922\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.pdb
+E:\MainProject\20140922\xPFT.ChildAnimation___Test - Copy\xPFT.ChildAnimation\bin\Debug\Resources\B10.png
+E:\MainProject\20140922\xPFT.ChildAnimation___Test - Copy\xPFT.ChildAnimation\bin\Debug\Resources\AppleBack.png
+E:\MainProject\20140922\xPFT.ChildAnimation___Test - Copy\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.dll
+E:\MainProject\20140922\xPFT.ChildAnimation___Test - Copy\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.pdb
+E:\MainProject\20140922\xPFT.ChildAnimation___Test - Copy\xPFT.ChildAnimation\bin\Debug\SharpDX.Direct3D9.dll
+E:\MainProject\20140922\xPFT.ChildAnimation___Test - Copy\xPFT.ChildAnimation\bin\Debug\SharpDX.dll
+E:\MainProject\20140922\xPFT.ChildAnimation___Test - Copy\xPFT.ChildAnimation\bin\Debug\SharpDX.xml
+E:\MainProject\20140922\xPFT.ChildAnimation___Test - Copy\xPFT.ChildAnimation\bin\Debug\SharpDX.Direct3D9.xml
+E:\MainProject\20140922\xPFT.ChildAnimation___Test - Copy\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.Properties.Resources.resources
+E:\MainProject\20140922\xPFT.ChildAnimation___Test - Copy\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.ChildAnimation.resources
+E:\MainProject\20140922\xPFT.ChildAnimation___Test - Copy\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.csproj.GenerateResource.Cache
+E:\MainProject\20140922\xPFT.ChildAnimation___Test - Copy\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.dll
+E:\MainProject\20140922\xPFT.ChildAnimation___Test - Copy\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.pdb
+E:\MainProject\20140923\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\Resources\B10.png
+E:\MainProject\20140923\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\Resources\AppleBack.png
+E:\MainProject\20140923\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.dll
+E:\MainProject\20140923\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.pdb
+E:\MainProject\20140923\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.Direct3D9.dll
+E:\MainProject\20140923\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.dll
+E:\MainProject\20140923\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.xml
+E:\MainProject\20140923\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.Direct3D9.xml
+E:\MainProject\20140923\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.csprojResolveAssemblyReference.cache
+E:\MainProject\20140923\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.Properties.Resources.resources
+E:\MainProject\20140923\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.ChildAnimation.resources
+E:\MainProject\20140923\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.csproj.GenerateResource.Cache
+E:\MainProject\20140923\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.dll
+E:\MainProject\20140923\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.pdb
+E:\MainProject\20140923\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\xPFT.Exceptions.dll
+E:\MainProject\20140924\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\Resources\B10.png
+E:\MainProject\20140924\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\Resources\AppleBack.png
+E:\MainProject\20140924\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.dll
+E:\MainProject\20140924\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.pdb
+E:\MainProject\20140924\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.Direct3D9.dll
+E:\MainProject\20140924\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.dll
+E:\MainProject\20140924\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\xPFT.Exceptions.dll
+E:\MainProject\20140924\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.xml
+E:\MainProject\20140924\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.Direct3D9.xml
+E:\MainProject\20140924\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.csprojResolveAssemblyReference.cache
+E:\MainProject\20140924\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.Properties.Resources.resources
+E:\MainProject\20140924\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.ChildAnimation.resources
+E:\MainProject\20140924\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.csproj.GenerateResource.Cache
+E:\MainProject\20140924\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.dll
+E:\MainProject\20140924\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.pdb
+E:\MainProject\20140927\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\Resources\B10.png
+E:\MainProject\20140927\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\Resources\AppleBack.png
+E:\MainProject\20140927\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.dll
+E:\MainProject\20140927\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.pdb
+E:\MainProject\20140927\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.Direct3D9.dll
+E:\MainProject\20140927\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.dll
+E:\MainProject\20140927\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\xPFT.Exceptions.dll
+E:\MainProject\20140927\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.xml
+E:\MainProject\20140927\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\bin\Debug\SharpDX.Direct3D9.xml
+E:\MainProject\20140927\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.csprojResolveAssemblyReference.cache
+E:\MainProject\20140927\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.Properties.Resources.resources
+E:\MainProject\20140927\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.ChildAnimation.resources
+E:\MainProject\20140927\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.csproj.GenerateResource.Cache
+E:\MainProject\20140927\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.dll
+E:\MainProject\20140927\xPFT.ChildAnimation___Test\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.pdb
+E:\XpertPFT\Source\Last\xPFT Source\DeviceControlAndPFTProcessing\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.dll.config
+E:\XpertPFT\Source\Last\xPFT Source\DeviceControlAndPFTProcessing\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.dll
+E:\XpertPFT\Source\Last\xPFT Source\DeviceControlAndPFTProcessing\xPFT.ChildAnimation\bin\Debug\xPFT.ChildAnimation.pdb
+E:\XpertPFT\Source\Last\xPFT Source\DeviceControlAndPFTProcessing\xPFT.ChildAnimation\bin\Debug\xPFT.Exceptions.dll
+E:\XpertPFT\Source\Last\xPFT Source\DeviceControlAndPFTProcessing\xPFT.ChildAnimation\bin\Debug\xPFT.Exceptions.pdb
+E:\XpertPFT\Source\Last\xPFT Source\DeviceControlAndPFTProcessing\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.csprojResolveAssemblyReference.cache
+E:\XpertPFT\Source\Last\xPFT Source\DeviceControlAndPFTProcessing\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.Properties.Resources.resources
+E:\XpertPFT\Source\Last\xPFT Source\DeviceControlAndPFTProcessing\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.ChildAnimation.resources
+E:\XpertPFT\Source\Last\xPFT Source\DeviceControlAndPFTProcessing\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.csproj.GenerateResource.Cache
+E:\XpertPFT\Source\Last\xPFT Source\DeviceControlAndPFTProcessing\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.dll
+E:\XpertPFT\Source\Last\xPFT Source\DeviceControlAndPFTProcessing\xPFT.ChildAnimation\obj\Debug\xPFT.ChildAnimation.pdb
+C:\xPFTAppFiles\xPFT.ChildAnimation.dll.config
+C:\xPFTAppFiles\xPFT.ChildAnimation.dll
+C:\xPFTAppFiles\xPFT.ChildAnimation.pdb

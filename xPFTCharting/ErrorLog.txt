@@ -1,0 +1,6 @@
+
+/////////////////Error : 6/14/2019 8:51:22 PM ////////////////////////
+Object reference not set to an instance of an object.
+Statck Trace =    at xPFT.GraphicEngineD2D1.Device.Dispose()
+   at xPFT.Charting.ChartArea.Dispose(Boolean disposing)
+///////////////////////////////////////////////////////////////

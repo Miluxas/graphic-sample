@@ -1,0 +1,10 @@
+E:\MainProject\20150310\Charting\xPFTCharting\xPFT.GraphicEngineGDI\obj\Release\xPFT.GraphicEngineGDI.csprojResolveAssemblyReference.cache
+E:\MainProject\20150310\Charting\xPFTCharting\xPFT.GraphicEngineGDI\obj\Release\xPFT.GraphicEngineGDI.Properties.Resources.resources
+E:\MainProject\20150310\Charting\xPFTCharting\xPFT.GraphicEngineGDI\obj\Release\xPFT.GraphicEngineGDI.csproj.GenerateResource.Cache
+C:\xPFTGraphicalLib\xPFT.GraphicEngineGDI.dll
+C:\xPFTGraphicalLib\xPFT.GraphicEngineGDI.pdb
+E:\MainProject\20150311\Charting\xPFTCharting\xPFT.GraphicEngineGDI\obj\Release\xPFT.GraphicEngineGDI.csprojResolveAssemblyReference.cache
+E:\MainProject\20150311\Charting\xPFTCharting\xPFT.GraphicEngineGDI\obj\Release\xPFT.GraphicEngineGDI.Properties.Resources.resources
+E:\MainProject\20150311\Charting\xPFTCharting\xPFT.GraphicEngineGDI\obj\Release\xPFT.GraphicEngineGDI.csproj.GenerateResource.Cache
+E:\MainProject\20150311\Charting\xPFTCharting\xPFT.GraphicEngineGDI\obj\Release\xPFT.GraphicEngineGDI.dll
+E:\MainProject\20150311\Charting\xPFTCharting\xPFT.GraphicEngineGDI\obj\Release\xPFT.GraphicEngineGDI.pdb

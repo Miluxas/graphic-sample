@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A686547A-908D-4A09-9FA1-D73983EA744A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>xPFT.Charting</RootNamespace>
+    <AssemblyName>xPFT.Charting</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\End\xPFTGraphicalLib\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>C:\xPFTChartAppFiles\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>C:\xPFTCharting\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>C:\xPFTCharting\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <RegisterForComInterop>false</RegisterForComInterop>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'xPFT86|AnyCPU'">
+    <OutputPath>bin\xPFT86\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'xPFT86|x86'">
+    <OutputPath>C:\xPFTChartingAppFiles\</OutputPath>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="xPFT.Exceptions, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\xPFTCharting\xPFT.Exceptions.dll</HintPath>
+    </Reference>
+    <Reference Include="xPFT.IDrawing">
+      <HintPath>C:\xPFTGraphicalLib\BaseLib\xPFT.IDrawing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActiveElementCollection.cs" />
+    <Compile Include="Annotation.cs" />
+    <Compile Include="AnnotationCollection.cs" />
+    <Compile Include="AnnotationEllipse.cs" />
+    <Compile Include="AnnotationLine.cs" />
+    <Compile Include="AnnotationRectangle.cs" />
+    <Compile Include="AnnotationShape.cs" />
+    <Compile Include="ArrangmentStyle.cs" />
+    <Compile Include="Axis.cs" />
+    <Compile Include="AxisCollection.cs" />
+    <Compile Include="AxisLabel.cs" />
+    <Compile Include="AxisLabelCollection.cs" />
+    <Compile Include="AxisType.cs" />
+    <Compile Include="ChartArea.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ChartAreaCollection.cs" />
+    <Compile Include="AnnotationPolygon.cs" />
+    <Compile Include="TextAnnotation.cs" />
+    <Compile Include="Grid.cs" />
+    <Compile Include="GridLine.cs" />
+    <Compile Include="ActiveElement.cs" />
+    <Compile Include="HorizontalAnnotationLine.cs" />
+    <Compile Include="Legend.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Legend.Designer.cs">
+      <DependentUpon>Legend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Series.cs" />
+    <Compile Include="SeriesCollection.cs" />
+    <Compile Include="SeriesChartType.cs" />
+    <Compile Include="VerticalAnnotationLine.cs" />
+    <EmbeddedResource Include="Legend.resx">
+      <DependentUpon>Legend.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\xPFT.Charting.Base\xPFT.Charting.Base.csproj">
+      <Project>{00a526ee-2a20-4ffe-882f-28551a36fd04}</Project>
+      <Name>xPFT.Charting.Base</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\xPFT.DrawingBase\xPFT.DrawingBase.csproj">
+      <Project>{0da12b2e-1ab0-4445-a222-87d02f98aa0a}</Project>
+      <Name>xPFT.DrawingBase</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\xPFT.GraphicEngineGDI\xPFT.GraphicEngineGDI.csproj">
+      <Project>{ac801fe1-d372-47b9-b8d7-85915675cdfd}</Project>
+      <Name>xPFT.GraphicEngineGDI</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\xPFT.GraphicEngine\xPFT.GraphicEngine.csproj">
+      <Project>{1ea74f50-f735-4541-8039-8f462e626a24}</Project>
+      <Name>xPFT.GraphicEngine</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,5 @@
+C:\xPFTCharting\xPFT.GraphicEngineGDIP.dll
+C:\xPFTCharting\xPFT.GraphicEngineGDIP.pdb
+E:\MainProject\20150606\xPFTGraphic\xPFT.GraphicEngineGDIP\obj\x86\Debug\xPFT.GraphicEngineGDIP.csprojResolveAssemblyReference.cache
+E:\MainProject\20150606\xPFTGraphic\xPFT.GraphicEngineGDIP\obj\x86\Debug\xPFT.GraphicEngineGDIP.dll
+E:\MainProject\20150606\xPFTGraphic\xPFT.GraphicEngineGDIP\obj\x86\Debug\xPFT.GraphicEngineGDIP.pdb

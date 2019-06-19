@@ -1,0 +1,17 @@
+E:\XpertPFT\FromAshori\xPFT.ChartingAndAnimationPanel[2015-04-20]\xPFT.Charting[2015-04-20]\xPFTCharting\WpfTester\bin\Release\WpfTester.exe
+E:\XpertPFT\FromAshori\xPFT.ChartingAndAnimationPanel[2015-04-20]\xPFT.Charting[2015-04-20]\xPFTCharting\WpfTester\bin\Release\WpfTester.pdb
+E:\XpertPFT\FromAshori\xPFT.ChartingAndAnimationPanel[2015-04-20]\xPFT.Charting[2015-04-20]\xPFTCharting\WpfTester\bin\Release\xPFT.Charting.Base.dll
+E:\XpertPFT\FromAshori\xPFT.ChartingAndAnimationPanel[2015-04-20]\xPFT.Charting[2015-04-20]\xPFTCharting\WpfTester\bin\Release\xPFT.Charting.Base.pdb
+E:\XpertPFT\FromAshori\xPFT.ChartingAndAnimationPanel[2015-04-20]\xPFT.Charting[2015-04-20]\xPFTCharting\WpfTester\obj\Release\WpfTester.csprojResolveAssemblyReference.cache
+E:\XpertPFT\FromAshori\xPFT.ChartingAndAnimationPanel[2015-04-20]\xPFT.Charting[2015-04-20]\xPFTCharting\WpfTester\obj\Release\MainWindow.baml
+E:\XpertPFT\FromAshori\xPFT.ChartingAndAnimationPanel[2015-04-20]\xPFT.Charting[2015-04-20]\xPFTCharting\WpfTester\obj\Release\MainWindow.g.cs
+E:\XpertPFT\FromAshori\xPFT.ChartingAndAnimationPanel[2015-04-20]\xPFT.Charting[2015-04-20]\xPFTCharting\WpfTester\obj\Release\App.g.cs
+E:\XpertPFT\FromAshori\xPFT.ChartingAndAnimationPanel[2015-04-20]\xPFT.Charting[2015-04-20]\xPFTCharting\WpfTester\obj\Release\WpfTester_MarkupCompile.cache
+E:\XpertPFT\FromAshori\xPFT.ChartingAndAnimationPanel[2015-04-20]\xPFT.Charting[2015-04-20]\xPFTCharting\WpfTester\obj\Release\WpfTester.g.resources
+E:\XpertPFT\FromAshori\xPFT.ChartingAndAnimationPanel[2015-04-20]\xPFT.Charting[2015-04-20]\xPFTCharting\WpfTester\obj\Release\WpfTester.chartUC.resources
+E:\XpertPFT\FromAshori\xPFT.ChartingAndAnimationPanel[2015-04-20]\xPFT.Charting[2015-04-20]\xPFTCharting\WpfTester\obj\Release\WpfTester.Properties.Resources.resources
+E:\XpertPFT\FromAshori\xPFT.ChartingAndAnimationPanel[2015-04-20]\xPFT.Charting[2015-04-20]\xPFTCharting\WpfTester\obj\Release\WpfTester.csproj.GenerateResource.Cache
+E:\XpertPFT\FromAshori\xPFT.ChartingAndAnimationPanel[2015-04-20]\xPFT.Charting[2015-04-20]\xPFTCharting\WpfTester\obj\Release\WpfTester.exe
+E:\XpertPFT\FromAshori\xPFT.ChartingAndAnimationPanel[2015-04-20]\xPFT.Charting[2015-04-20]\xPFTCharting\WpfTester\obj\Release\WpfTester.pdb
+C:\xPFTCharting\WpfTester.exe
+C:\xPFTCharting\WpfTester.pdb
